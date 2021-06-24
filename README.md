@@ -1,2 +1,2 @@
-# GIT_Study
-The first time to learn and use github
+# Shell
+Summary of personal experience: Shell scripts used in work.
